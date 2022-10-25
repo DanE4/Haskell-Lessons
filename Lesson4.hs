@@ -11,7 +11,7 @@ fact :: Integer -> Integer
 fact 1=1
 fact n = n * fact n -1
 
-    --önnmagát hivagatva 
+    --önnmagát hivogatva 
 -----------------------------------------------------------------
 fib:: Integer ->Integer
 fib 0=1
