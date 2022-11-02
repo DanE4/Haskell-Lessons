@@ -1,6 +1,7 @@
 module Lesson8 where
 ---------------------------------------------------------------------------------
     --http://lambda.inf.elte.hu/Higherorder.xml
+    --http://lambda.inf.elte.hu/Composition.xml#feladat-1-31-331-3331
     filters :: Eq a => [a] -> [a] -> [a]
     filters a b = filter(flip notElem a) b
 
