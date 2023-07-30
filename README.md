@@ -1,6 +1,6 @@
 # Good to know things
 
-## How to install it on MacOs/Linux: 
+## How to install Haskell on MacOs/Linux: 
 First, you'll need to have brew installed: https://brew.sh/
 
 Follow the instructions on the website, and the instructions in the terminal, you'll need to paste this into your terminal tho: 
@@ -11,7 +11,7 @@ After that, you'll need to enter those commands into your terminal:
 Install GHCup by running the command:  brew install ghcup   
 Use GHCup to install GHC, cabal-install, Stack, and haskell-language-server by running the command:   ghcup install
 
-## How to install it on Windows machines:
+## How to install Haskell on Windows machines:
 
 https://www.haskell.org/ghcup/
 
