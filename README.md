@@ -28,6 +28,10 @@ https://people.inf.elte.hu/divip/
 
 http://lambda.inf.elte.hu/Index.xml
 
+Itt pedig nem csak funkcionális programozással kapcsolatos jegyzetek találhatóak:
+
+https://szabope.web.elte.hu/anyagok/BSc/1/funprog/
+
 # How to use it and other things:
 
 ghci test.hs 	— File futtatás
@@ -37,3 +41,5 @@ ghci test.hs 	— File futtatás
 ````			    —pléldául: \`mod`
 
 :q				    —kilépés
+
+Sok sikert! :)
