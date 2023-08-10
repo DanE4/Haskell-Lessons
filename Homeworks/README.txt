@@ -1,0 +1,1 @@
+Use a markdown previewer extension, so you will be able to see the .md files in cool format

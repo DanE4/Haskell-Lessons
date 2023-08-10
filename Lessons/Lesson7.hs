@@ -8,8 +8,7 @@ module Lesson7 where
     --pl in java : Predicate<String> p = s -> s.length() > 5;
     --filter (\x-> x>3)[1,2,3,4,5]
     --literally just a filter
-
-
+    
     count :: (a->Bool) -> [a]->Int
     count f [] = 0
     count f (x:xs)

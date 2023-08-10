@@ -16,7 +16,9 @@ module Lesson8 where
     differences (x:xs) = zipWith (-) xs (x:xs)
     -- == [2,3,4,5] [1,2,3,4,5] -> 2 - 1 : 3 - 2...
     --magasabbrendű függvények valszeg + függvénykompozíció ON ZHHHHHHHHHH
-    
+
+
+
 ---------------------------------------------------------------------------------
     group :: Eq a => [a]{-véges-} -> [[a]]
     group [] = []
@@ -39,7 +41,7 @@ module Lesson8 where
     függvénykompozíció
      :t (.)
     (3+) ((2*) 5)
-    függvénykommppal: 
+    függvénykommpal: 
     
     --}
 ---------------------------------------------------------------------------------    
